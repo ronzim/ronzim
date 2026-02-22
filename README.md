@@ -15,9 +15,10 @@
 
 ---
 
-- 🔭 I'm currently working on full-stack web applications
-- 🌱 I'm currently learning Angular, Rust, and TypeScript
-- 💬 Ask me about Python, JavaScript, Node.js, or Django
+- 🔭 I'm currently working on Vue 3 + Vite personal tools and web apps
+- 🌱 I'm currently learning Rust and deepening TypeScript & Vue 3
+- 💬 Ask me about Python, JavaScript, Vue.js, Node.js, Three.js, or Django
+- 🤖 I love building Telegram bots and personal automation scripts
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattiaronzoni90/)
 
 ---
@@ -45,6 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
 </div>
 
 ### 📘 Currently Learning
@@ -54,6 +56,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [grimer](https://github.com/ronzim/grimer) | Remove garbage with a sleek UX | Vue 3, Vite |
+| [rockthiswedding](https://github.com/ronzim/rockthiswedding) | Wedding website with RSVP, maps & schedule | Vue.js |
+| [wheresmymoney](https://github.com/ronzim/wheresmymoney) | Personal expense tracker with charts | Vue.js |
+| [SlideShow](https://github.com/ronzim/SlideShow) | 3D carousel / presentation tool | Three.js |
+| [expenseSeeker](https://github.com/ronzim/expenseSeeker) | Telegram bot for personal expense management | Python |
+| [songSeeker](https://github.com/ronzim/songSeeker) | Telegram bot to download YouTube links from chats | Python |
 
 ---
 
