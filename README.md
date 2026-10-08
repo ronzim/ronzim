@@ -1,83 +1,73 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Animated greeting"/>
-  <h1>Hey there, I'm Mattia 👋</h1>
-  <h3>A passionate software developer from Italy 🇮🇹</h3>
-</div>
+<div align="center">
+  <h1>Hello there! 👋</h1>
+  <h3>Sono Mattia — software engineer e co-founder di <a href="https://www.dvisionlab.com">D/Vision Lab</a></h3>
+  <p><i>Medical imaging · Three.js · AI agents · road trip</i></p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mattiaronzoni90/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/in/mattiaronzoni90/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/ronzim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
+  <a href="https://www.strava.com/athletes/29513997"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava"/></a>
   <img src="https://komarev.com/ghpvc/?username=ronzim&style=for-the-badge&color=0077B5" alt="Profile views"/>
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 🇮🇹 Chi sono
 
-- 🔭 I'm currently working on **Vue 3 + Vite** personal tools and web apps
-- 🌱 I'm currently learning **Rust** and deepening **TypeScript & Vue 3**
-- 💬 Ask me about **Python, JavaScript, Vue.js, Node.js, Three.js, or Django**
-- 🤖 I love building **Telegram bots** and personal automation scripts
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mattiaronzoni90/)
+Sono uno dei fondatori di **D/Vision Lab**, dove faccio un po' di tutto: scrivo codice, progetto architetture e gestisco progetti. Ci occupiamo soprattutto di **imaging medico** e di **visualizzazione 3D nel browser**: viewer DICOM, ricostruzioni 3D e strumenti web per clinici e ricercatori.
 
----
+Negli ultimi tempi mi sto divertendo parecchio con gli **agenti AI**, sia sul lavoro sia per automatizzare tutto quello che mi capita a tiro.
 
-## 🛠️ Skills & Technologies
+**Mi trovi a lavorare su**
+- 🩻 DICOM, imaging medico e visualizzazione 3D nel browser con **Three.js**
+- 🤖 AI agents e LLM applicati a flussi di lavoro reali
+- 🧩 Web app con Vue 3 + TypeScript, tool in Python e Node.js
 
-### 🗣️ Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-</div>
+**Quando spengo il PC**
+- 🚐 **Road trip**: in macchina e in tenda o in van, possibilmente verso nord. I viaggi finiscono sul mio [blog di viaggio](https://travelblog.lisaemattia.day); l'ultimo è la [Norvegia 2026](https://norvegia26.vercel.app)
+- 🥾 **Escursionismo**: ogni anno almeno un cammino o un sentiero a tappe
+- 🏃 **Corsa**, nel tempo libero (e su [Strava](https://www.strava.com/athletes/29513997))
+- 🎶 **Self-hosting**: costruisco la mia infrastruttura privata, soprattutto per gestire e condividere la musica
 
-### ⚙️ Tools & Frameworks
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
-</div>
+## 🇬🇧 About me
 
-### 📘 Currently Learning
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-</div>
+I'm a co-founder of **D/Vision Lab**, where I wear many hats: software engineer, architect and project manager. We focus on **medical imaging** and **3D visualization in the browser** with **Three.js**: DICOM viewers, 3D reconstructions and web tools for clinicians and researchers. Lately I'm having a lot of fun with **AI agents**, at work and for automating pretty much everything else.
+
+Off the keyboard you'll find me on a **road trip** (car + tent, or a van), **hiking** a long-distance trail, **running**, or tinkering with my **self-hosted** setup, mostly around managing and sharing music.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Progetti in evidenza / Featured projects
 
-| Project | Description | Stack |
+| Progetto | Cosa fa | Stack |
 |---|---|---|
-| [**grimer**](https://github.com/ronzim/grimer) | Remove garbage with a sleek UX | Vue 3, Vite |
-| [**rockthiswedding**](https://github.com/ronzim/rockthiswedding) | Wedding website with RSVP, maps & schedule | Vue.js |
-| [**wheresmymoney**](https://github.com/ronzim/wheresmymoney) | Personal expense tracker with charts | Vue.js |
-| [**SlideShow**](https://github.com/ronzim/SlideShow) | 3D carousel / presentation tool | Three.js |
-| [**expenseSeeker**](https://github.com/ronzim/expenseSeeker) | Telegram bot for personal expense management | Python |
-| [**songSeeker**](https://github.com/ronzim/songSeeker) | Telegram bot to download YouTube links from chats | Python |
+| [**mappit**](https://github.com/ronzim/mappit) | App desktop + CLI per esplorare la Google Location History di Takeout. Tutti i formati, file da 500 MB+, dati 100% in locale. / *Desktop app & CLI to explore your Google Location History, fully local.* | TypeScript, Electron, deck.gl, MapLibre |
+| **roadscribe** *(privato)* | PWA per registrare note vocali mentre guidi: audio, trascrizione AI e posizione GPS, con viaggi condivisi e offline-first. / *Voice notes while driving, with AI transcription and GPS.* | Vue 3, TypeScript, PWA, Gemini |
+| [**wheresmymoney**](https://github.com/ronzim/wheresmymoney) | CLI che importa gli estratti conto, li categorizza con regole + LLM e li salva su Google Sheets. / *Bank statements → rules + LLM categorization → Google Sheets.* | Python, Gemini, Google Sheets |
 
 ---
 
-## 📊 My Stats
+## 🛠️ Strumenti / Toolbox
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" title="Electron" alt="Electron" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="36" height="36"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="36" height="36"/>&nbsp;
+</div>
+
+---
+
+## 📊 Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronzim&theme=dark&layout=compact" alt="Top Languages" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ronzim&theme=dark&background=000000" alt="GitHub Streak" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronzim&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ronzim&theme=transparent&hide_border=true" alt="GitHub streak"/>
 </div>
+
+<p align="center"><i>May the source be with you.</i></p>
