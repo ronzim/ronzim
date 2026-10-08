@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hello there! 👋</h1>
   <h3>Sono Mattia — software engineer e co-founder di <a href="https://www.dvisionlab.com">D/Vision Lab</a></h3>
-  <p><i>Medical imaging · 3D nel browser · AI agents · road trip</i></p>
+  <p><i>Medical imaging · Three.js · AI agents · road trip</i></p>
 
   <a href="https://www.linkedin.com/in/mattiaronzoni90/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/ronzim"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
-  <a href="https://www.strava.com/athletes/ronzim"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava"/></a>
+  <a href="https://www.strava.com/athletes/29513997"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava"/></a>
   <img src="https://komarev.com/ghpvc/?username=ronzim&style=for-the-badge&color=0077B5" alt="Profile views"/>
 </div>
 
@@ -18,19 +18,19 @@ Sono uno dei fondatori di **D/Vision Lab**, dove faccio un po' di tutto: scrivo 
 Negli ultimi tempi mi sto divertendo parecchio con gli **agenti AI**, sia sul lavoro sia per automatizzare tutto quello che mi capita a tiro.
 
 **Mi trovi a lavorare su**
-- 🩻 DICOM, imaging medico e visualizzazione 3D (Three.js, WebGL)
+- 🩻 DICOM, imaging medico e visualizzazione 3D nel browser con **Three.js**
 - 🤖 AI agents e LLM applicati a flussi di lavoro reali
 - 🧩 Web app con Vue 3 + TypeScript, tool in Python e Node.js
 
 **Quando spengo il PC**
-- 🚐 **Road trip**: in macchina e in tenda o in van, possibilmente verso nord. I viaggi finiscono sul mio [blog di viaggio](BLOG_URL); l'ultimo è la [Norvegia 2026](https://norvegia26.vercel.app)
+- 🚐 **Road trip**: in macchina e in tenda o in van, possibilmente verso nord. I viaggi finiscono sul mio [blog di viaggio](https://travelblog.lisaemattia.day); l'ultimo è la [Norvegia 2026](https://norvegia26.vercel.app)
 - 🥾 **Escursionismo**: ogni anno almeno un cammino o un sentiero a tappe
-- 🏃 **Corsa**, nel tempo libero (e su [Strava](https://www.strava.com/athletes/ronzim))
+- 🏃 **Corsa**, nel tempo libero (e su [Strava](https://www.strava.com/athletes/29513997))
 - 🎶 **Self-hosting**: costruisco la mia infrastruttura privata, soprattutto per gestire e condividere la musica
 
 ## 🇬🇧 About me
 
-I'm a co-founder of **D/Vision Lab**, where I wear many hats: software engineer, architect and project manager. We focus on **medical imaging** and **3D visualization in the browser**: DICOM viewers, 3D reconstructions and web tools for clinicians and researchers. Lately I'm having a lot of fun with **AI agents**, at work and for automating pretty much everything else.
+I'm a co-founder of **D/Vision Lab**, where I wear many hats: software engineer, architect and project manager. We focus on **medical imaging** and **3D visualization in the browser** with **Three.js**: DICOM viewers, 3D reconstructions and web tools for clinicians and researchers. Lately I'm having a lot of fun with **AI agents**, at work and for automating pretty much everything else.
 
 Off the keyboard you'll find me on a **road trip** (car + tent, or a van), **hiking** a long-distance trail, **running**, or tinkering with my **self-hosted** setup, mostly around managing and sharing music.
 
